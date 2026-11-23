@@ -11,6 +11,7 @@ ROAST = (
     "spends all night awake in my bag, warm, glowing, and quietly "
     "judging me for going to bed."
 )
+# One line, 155 characters: inside the competition gate of 1-200 characters.
 
 
 def main() -> int:
